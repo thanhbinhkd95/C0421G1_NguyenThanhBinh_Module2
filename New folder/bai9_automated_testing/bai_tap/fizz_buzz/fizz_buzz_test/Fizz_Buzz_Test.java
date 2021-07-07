@@ -1,7 +1,8 @@
 package bai9_automated_testing.bai_tap.fizz_buzz.fizz_buzz_test;
-import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Test;
+
+import static junit.framework.TestCase.assertEquals;
 
 public class Fizz_Buzz_Test {
     @Test
